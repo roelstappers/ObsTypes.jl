@@ -1,0 +1,4 @@
+name = "ObsTypes"
+uuid = "ae7f8ec5-d573-4321-8a5d-392cd8089737"
+authors = ["Roel Stappers <roels@met.no>"]
+version = "0.1.0"
